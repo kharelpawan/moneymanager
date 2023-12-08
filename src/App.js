@@ -11,7 +11,7 @@ function App() {
     });
   }, []);
   async function getTransactions() {
-    const url = "http://localhost:4000/api/transactions";
+    const url = "https://moneyapi.vercel.app/api/transactions";
     const response = await fetch(url);
     return await response.json();
   }
@@ -47,7 +47,7 @@ function App() {
       return;
     }
   
-    const url = "http://localhost:4000/api/transaction";
+    const url = "https://moneyapi.vercel.app/api/transaction";
     const price = name.split(" ")[0];
   
     fetch(url, {
