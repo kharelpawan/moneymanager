@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/transactions/static/css/main.2bcb1c03.css",
-    "main.js": "/transactions/static/js/main.a09dba8e.js",
-    "static/js/787.71a6dc17.chunk.js": "/transactions/static/js/787.71a6dc17.chunk.js",
-    "index.html": "/transactions/index.html",
-    "main.2bcb1c03.css.map": "/transactions/static/css/main.2bcb1c03.css.map",
-    "main.a09dba8e.js.map": "/transactions/static/js/main.a09dba8e.js.map",
-    "787.71a6dc17.chunk.js.map": "/transactions/static/js/787.71a6dc17.chunk.js.map"
+    "main.css": "/moneymanager/static/css/main.2bcb1c03.css",
+    "main.js": "/moneymanager/static/js/main.4fd373a7.js",
+    "static/js/787.71a6dc17.chunk.js": "/moneymanager/static/js/787.71a6dc17.chunk.js",
+    "index.html": "/moneymanager/index.html",
+    "main.2bcb1c03.css.map": "/moneymanager/static/css/main.2bcb1c03.css.map",
+    "main.4fd373a7.js.map": "/moneymanager/static/js/main.4fd373a7.js.map",
+    "787.71a6dc17.chunk.js.map": "/moneymanager/static/js/787.71a6dc17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2bcb1c03.css",
-    "static/js/main.a09dba8e.js"
+    "static/js/main.4fd373a7.js"
   ]
 }
